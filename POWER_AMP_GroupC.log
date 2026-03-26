@@ -1,0 +1,23 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\trist\Downloads\POWER_AMP_GroupC.net
+Start Time: Fri Mar 27 01:13:58 2026
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.286 seconds.
+
+Files loaded:
+C:\Users\trist\Downloads\POWER_AMP_GroupC.net
+C:\Users\trist\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\trist\AppData\Local\LTspice\lib\cmp\standard.bjt
+
